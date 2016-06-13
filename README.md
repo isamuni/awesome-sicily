@@ -19,6 +19,8 @@ Leggi la [Guida per Contribuire](contributing.md)
 - [Sicilia](#sicilia)
 - [Catania](#catania)
 - [Palermo](#palermo)
+- [Messina](#messina)
+- [Caltanissetta](#caltanissetta)
  
 ### Sicilia
 * Italian Startup Scene Sicily - [FB Group](https://www.facebook.com/groups/italianstartupsicilia/)
@@ -48,11 +50,20 @@ Leggi la [Guida per Contribuire](contributing.md)
 * Informatici a Palermo - [FB Group](https://www.facebook.com/groups/110929722279430/)
 * GDG Palermo
 
+### Messina
+* GDG Nebrodi - [Site](http://www.gdgnebrodi.info/)
+
+### Caltanissetta
+* GDG Gela - [Site](http://www.gdggela.org/)
+
 ## Città e Ambiente
 
 ## Legalità
 
+* AddioPizzo - [Site](www.addiopizzo.org)
+
 ## Giornalismo
+* StartMeUp (Radio) - [Site](http://www.radiostartmeup.it/), [Twitter](https://twitter.com/radiosmu)
 
 ## Cultura
 
