@@ -14,19 +14,19 @@ Leggi la [Guida per Contribuire](contributing.md)
 - [Giornalismo](#giornalismo)
 - [Cultura](#cultura)
  
-## Tecnologia
+## *T*ecnologia
 
-- [Sicilia](#sicilia)
-- [Catania](#catania)
-- [Palermo](#palermo)
-- [Messina](#messina)
-- [Caltanissetta](#caltanissetta)
+- [Sicilia](#t-sicilia)
+- [Catania](#t-catania)
+- [Palermo](#t-palermo)
+- [Messina](#t-messina)
+- [Caltanissetta](#t-caltanissetta)
  
-### Sicilia
+### *T-*Sicilia
 * Italian Startup Scene Sicily - [FB Group](https://www.facebook.com/groups/italianstartupsicilia/)
 * StartupItalia! Sicilia - [FB Group](https://www.facebook.com/groups/startupitaliasicilia/)
 
-### Catania
+### *T-*Catania
 * Programmatori a Catania - [FB Group](https://www.facebook.com/groups/programmatoriCatania/)
 * YoutHub - [FB Page](https://www.facebook.com/Youthub-Catania-116505148430596), [Site](http://www.youthub.net/)
 * Hackspace Catania - [Site](http://www.hackspacecatania.it/) - [FB page](https://www.facebook.com/hackspacecatania/)
@@ -46,28 +46,28 @@ Leggi la [Guida per Contribuire](contributing.md)
 * OpenDataSicilia - [FB Group](https://www.facebook.com/groups/opendatasicilia/?fref=ts)
 * Linux User Group - [Site](http://catania.linux.it/)
 
-### Palermo
+### *T-*Palermo
 * Informatici a Palermo - [FB Group](https://www.facebook.com/groups/110929722279430/)
 * GDG Palermo
 
-### Messina
+### *T-*Messina
 * GDG Nebrodi - [Site](http://www.gdgnebrodi.info/)
 
-### Caltanissetta
+### *T-*Caltanissetta
 * GDG Gela - [Site](http://www.gdggela.org/)
 
-## Città e Ambiente
-* [Catania](#catania)
+## *C*ittà e *A*mbiente
+* [Catania](#ca-catania)
 
-### Catania
+### *CA-*Catania
 * Lungomare Liberato - [FB Page](https://www.facebook.com/lungomareliberatocatania/)
 
-## Legalità
+## *L*egalità
 
 * AddioPizzo - [Site](www.addiopizzo.org)
 
-## Giornalismo
+## *G*iornalismo
 * StartMeUp (Radio) - [Site](http://www.radiostartmeup.it/), [Twitter](https://twitter.com/radiosmu)
 
-## Cultura
+## *C*ultura
 
