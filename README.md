@@ -57,6 +57,10 @@ Leggi la [Guida per Contribuire](contributing.md)
 * GDG Gela - [Site](http://www.gdggela.org/)
 
 ## Città e Ambiente
+* [Catania](#catania)
+
+### Catania
+* Lungomare Liberato - [FB Page](https://www.facebook.com/lungomareliberatocatania/)
 
 ## Legalità
 
