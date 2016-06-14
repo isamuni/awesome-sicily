@@ -58,15 +58,20 @@ Leggi la [Guida per Contribuire](contributing.md)
 
 ## *C*ittà e *A*mbiente
 * [Catania](#ca-catania)
+* [Palermo](#ca-palermo)
 
 ### *CA-*Catania
 * Lungomare Liberato - [FB Page](https://www.facebook.com/lungomareliberatocatania/)
+
+### **CA-*Palermo
+* Palermobugs.com - [Site](http://www.palermobugs.com/)
 
 ## *L*egalità
 
 * AddioPizzo - [Site](www.addiopizzo.org)
 
 ## *G*iornalismo
+
 * StartMeUp (Radio) - [Site](http://www.radiostartmeup.it/), [Twitter](https://twitter.com/radiosmu)
 
 ## *C*ultura
