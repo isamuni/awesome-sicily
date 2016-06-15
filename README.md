@@ -60,19 +60,27 @@ Leggi la [Guida per Contribuire](contributing.md)
 * [Catania](#ca-catania)
 * [Palermo](#ca-palermo)
 
-### *CA-*Catania
+### *CA*-Catania
 * Lungomare Liberato - [FB Page](https://www.facebook.com/lungomareliberatocatania/)
 
-### **CA-*Palermo
+### *CA*-Palermo
 * Palermobugs.com - [Site](http://www.palermobugs.com/)
 
 ## *L*egalità
 
 * AddioPizzo - [Site](www.addiopizzo.org)
 
+### *L*-Catania
+
+* Inciviltà a Catania [Fb Page](https://www.facebook.com/Inciviltà-a-Catania-662923443841832/)
+* I briganti di Librino [Site](http://www.brigantilibrino.it/)
+
 ## *G*iornalismo
 
 * StartMeUp (Radio) - [Site](http://www.radiostartmeup.it/), [Twitter](https://twitter.com/radiosmu)
 
-## *C*ultura
+### *G*-Catania
+* Argo Catania - [Site](http://www.argocatania.org/), [FB Page](https://www.facebook.com/Argo-Catania-148063732028876/)
 
+## *C*ultura
+* Officine Culturali - [Site](http://www.officineculturali.net/)
