@@ -9,24 +9,18 @@ Leggi la [Guida per Contribuire](contributing.md)
 ## Indice
 
 - [Tecnologia](#tecnologia)
-- [Città e Ambiente](#città-e-ambiente)
-- [Legalità](#legalità)
+- [Città e Ambiente](#città-ambiente-e-legalità)
 - [Giornalismo](#giornalismo)
 - [Cultura](#cultura)
+- [Sport](#sport)
  
 ## *T*ecnologia
-
-- [Sicilia](#t-sicilia)
-- [Catania](#t-catania)
-- [Palermo](#t-palermo)
-- [Messina](#t-messina)
-- [Caltanissetta](#t-caltanissetta)
  
-### *T-*Sicilia
+### Sicilia
 * Italian Startup Scene Sicily - [FB Group](https://www.facebook.com/groups/italianstartupsicilia/)
 * StartupItalia! Sicilia - [FB Group](https://www.facebook.com/groups/startupitaliasicilia/)
 
-### *T-*Catania
+### Catania
 * Programmatori a Catania - [FB Group](https://www.facebook.com/groups/programmatoriCatania/)
 * YoutHub - [FB Page](https://www.facebook.com/Youthub-Catania-116505148430596), [Site](http://www.youthub.net/)
 * Hackspace Catania - [Site](http://www.hackspacecatania.it/) - [FB page](https://www.facebook.com/hackspacecatania/)
@@ -46,41 +40,38 @@ Leggi la [Guida per Contribuire](contributing.md)
 * OpenDataSicilia - [FB Group](https://www.facebook.com/groups/opendatasicilia/?fref=ts)
 * Linux User Group - [Site](http://catania.linux.it/)
 
-### *T-*Palermo
+### Palermo
 * Informatici a Palermo - [FB Group](https://www.facebook.com/groups/110929722279430/)
 * GDG Palermo
 
-### *T-*Messina
+### Messina
 * GDG Nebrodi - [Site](http://www.gdgnebrodi.info/)
 
-### *T-*Caltanissetta
+### Caltanissetta
 * GDG Gela - [Site](http://www.gdggela.org/)
 
-## *C*ittà e *A*mbiente
-* [Catania](#ca-catania)
-* [Palermo](#ca-palermo)
+## Città, Ambiente e Legalità
 
-### *CA*-Catania
-* Lungomare Liberato - [FB Page](https://www.facebook.com/lungomareliberatocatania/)
-
-### *CA*-Palermo
-* Palermobugs.com - [Site](http://www.palermobugs.com/)
-
-## *L*egalità
-
+### Sicilia
 * AddioPizzo - [Site](www.addiopizzo.org)
 
-### *L*-Catania
+### Catania
+* Lungomare Liberato - [FB Page](https://www.facebook.com/lungomareliberatocatania/)
+* Inciviltà a Catania - [Fb Page](https://www.facebook.com/Inciviltà-a-Catania-662923443841832/)
+* I briganti di Librino - [Site](http://www.brigantilibrino.it/)
 
-* Inciviltà a Catania [Fb Page](https://www.facebook.com/Inciviltà-a-Catania-662923443841832/)
-* I briganti di Librino [Site](http://www.brigantilibrino.it/)
+### Palermo
+* Palermobugs.com - [Site](http://www.palermobugs.com/)
 
-## *G*iornalismo
+## Giornalismo
 
-* StartMeUp (Radio) - [Site](http://www.radiostartmeup.it/), [Twitter](https://twitter.com/radiosmu)
-
-### *G*-Catania
+### Catania
 * Argo Catania - [Site](http://www.argocatania.org/), [FB Page](https://www.facebook.com/Argo-Catania-148063732028876/)
 
-## *C*ultura
+### Messina
+* StartMeUp (Radio) - [Site](http://www.radiostartmeup.it/), [Twitter](https://twitter.com/radiosmu)
+
+## Cultura
 * Officine Culturali - [Site](http://www.officineculturali.net/)
+
+## Sport
