@@ -9,7 +9,7 @@ Leggi la [Guida per Contribuire](contributing.md)
 ## Indice
 
 - [Tecnologia](#tecnologia)
-- [Città e Ambiente](#città-ambiente-e-legalità)
+- [Città, Ambiente e Legalità](#città-ambiente-e-legalità)
 - [Giornalismo](#giornalismo)
 - [Cultura](#cultura)
 - [Sport](#sport)
