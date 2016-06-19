@@ -2,7 +2,7 @@
 
 Ciao e benvenuto a **awesome-sicily**! Questa e' una lista di *awesome communities in Sicilia*.
 
-Una *awesome community* è qualsiasi **aggregatore di idee, eventi e talenti**, che promuove il senso di **comunità**.
+Una community si classifica come **awesome**, quando questa agisce da **aggregatore di idee, eventi e talenti**, che promuove il senso di **comunità**.
 
 
 ## Come contribuire
@@ -44,18 +44,23 @@ Leggi la [Guida per Contribuire](contributing.md)
 ### Palermo
 * Informatici a Palermo - [FB Group](https://www.facebook.com/groups/110929722279430/)
 * GDG Palermo - [FB Page](https://www.facebook.com/GDGPalermo/), [Twitter](https://twitter.com/gdg_palermo)
+* CoderDojo Palermo - [FB Group](https://www.facebook.com/groups/386820911485430/)
 
 ### Messina
 * GDG Nebrodi - [Site](http://www.gdgnebrodi.info/)
+* Startup Messina - [FB Page](https://www.facebook.com/startupmessina/), [FB Group](https://www.facebook.com/groups/649406375092242/)
 
 ### Caltanissetta
 * GDG Gela - [Site](http://www.gdggela.org/)
+* CoderDojo Gela - [Site](http://www.coderdojogela.it/), [FB Page](https://www.facebook.com/coderdojogela)
 
 ### Incubatori, Acceleratori e Hubs
 
 #### Incubatori
 * Consorzio Arca - [Site](http://www.consorzioarca.it/index.php/en/), [FB Page](https://www.facebook.com/ConsorzioArca/)
 * ATFactory - [Site](http://atfactory.it/)
+* Digital Magics - [Site](http://l.digitalmagics.com/palermo/)
+* Vulcanic Incubator - [Site](http://www.vulcanic.it/)
 
 #### Accelleratori
 * TIM #WCAP Catania - [Site](http://www.wcap.tim.it/en/accelerators/catania), [FB Group](https://www.facebook.com/groups/454645481297154/) 
@@ -63,6 +68,7 @@ Leggi la [Guida per Contribuire](contributing.md)
 #### Hubs
 * Impact Hub Siracusa - [Site](http://siracusa.impacthub.net/), [FB Page](https://www.facebook.com/TheHubSiracusa?fref=ts)
 * FabLab Catania - [Site](http://fablabcatania.eu/), [FB Page](https://www.facebook.com/FABLAB.CATANIA.make.your.idea/?fref=ts)
+* FabLab Palermo - [Site](http://fablabpalermo.org/)
 
 ## Città, Ambiente e Legalità
 
