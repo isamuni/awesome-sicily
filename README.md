@@ -85,6 +85,9 @@ Leggi la [Guida per Contribuire](contributing.md)
 
 ## Giornalismo
 
+### Sicilia
+* MeridioNews (prima CTZen) - [Site](http://meridionews.it/)
+
 ### Catania
 * Argo Catania - [Site](http://www.argocatania.org/), [FB Page](https://www.facebook.com/Argo-Catania-148063732028876/)
 
