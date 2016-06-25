@@ -11,7 +11,7 @@ Una community si classifica come **awesome**, quando questa agisce da **aggregat
 
 ## Come contribuire
 
-Questa pagina è attualmente curata dalla community di PAC. Tutti sono invitati a contribuire, tramite gli strumenti di Github o contattando i curatori (leggi [Guida su come contribuire](#contributing))
+Questa pagina è attualmente curata dalla [community di PAC](https://www.facebook.com/groups/programmatoriCatania/). Tutti sono invitati a contribuire, tramite gli strumenti di Github o contattando i curatori (leggi [Guida su come contribuire](#contributing)). Il contenuto di questa pagina è rilasciato sotto licenza [Creative Commons](http://creativecommons.org/licenses/by/4.0/), ovvero è possibile utilizzarlo, modificarlo e ridistribuirlo liberamente.
 
 ## Indice
 
