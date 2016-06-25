@@ -1,6 +1,6 @@
 # awesome-sicily
 
-Ciao e benvenuto a **awesome-sicily**! Questa e' una lista di *awesome communities in Sicilia*.
+Ciao e benvenuto a **awesome-sicily**! Questa è una lista di *awesome communities in Sicilia*.
 
 Una community si classifica come **awesome**, quando questa agisce da **aggregatore di idee, eventi e talenti**, che promuove il senso di **comunità**.
 
@@ -16,7 +16,7 @@ Leggi la [Guida per Contribuire](contributing.md)
 - [Giornalismo](#giornalismo)
 - [Cultura](#cultura)
  
-## *T*ecnologia
+## Tecnologia
  
 ### Sicilia
 * Italian Startup Scene Sicily - [FB Group](https://www.facebook.com/groups/italianstartupsicilia/)
