@@ -11,7 +11,7 @@ Una community si classifica come **awesome**, quando questa agisce da **aggregat
 
 ## Come contribuire
 
-Questa pagina è attualmente curata dalla community di PAC. Tutti sono invitati a contribuire, tramite gli strumenti di Github o contattando i curatori (leggi [Guida su come contribuire](#come-contribuire))
+Questa pagina è attualmente curata dalla community di PAC. Tutti sono invitati a contribuire, tramite gli strumenti di Github o contattando i curatori (leggi [Guida su come contribuire](#contributing))
 
 ## Indice
 
@@ -103,7 +103,7 @@ Questa pagina è attualmente curata dalla community di PAC. Tutti sono invitati 
 * Officine Culturali - [Site](http://www.officineculturali.net/)
 
 
-## Come Contribuire
+## Contributing
 
 I metodi per contribuire sono due:
 
