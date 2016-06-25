@@ -1,12 +1,17 @@
 # awesome-sicily
 
-Ciao e benvenuto a **awesome-sicily**! Questa è una lista di *awesome communities in Sicilia*.
+Benvenuto su **awesome-sicily**,
+
+La Sicilia è anche un insieme di realtà giovani, innovative e vibranti, che spesso hanno difficoltà a farsi conoscere, e non hanno il risalto che meritano. Questo progetto vuole creare un indice di queste associazioni, in modo che sia facile scoprirle, e magari prendere parte alle loro inziative.
+
+## Cosa c'è in questa lista
 
 Una community si classifica come **awesome**, quando questa agisce da **aggregatore di idee, eventi e talenti**, che promuove il senso di **comunità**.
 
 
 ## Come contribuire
-Leggi la [Guida per Contribuire](contributing.md)
+
+Questa pagina è attualmente curata dalla community di PAC. Tutti sono invitati a contribuire, tramite gli strumenti di Github o contattando i curatori (leggi [Guida su come contribuire](#contributing))
 
 ## Indice
 
@@ -96,3 +101,25 @@ Leggi la [Guida per Contribuire](contributing.md)
 
 ## Cultura
 * Officine Culturali - [Site](http://www.officineculturali.net/)
+
+
+## Come Contribuire
+
+I metodi per contribuire sono due:
+
+1.  inviare una mail a uno dei curatori tramite *programmatori.a.catania@gmail.com*, che vi invitiamo a fare anche per qualsiasi domanda o suggerimento.
+
+2. usare gli strumenti della piattaforma Github (pull request o issues):
+
+Come creare una [pull request](https://help.github.com/articles/using-pull-requests/):
+
+1. Fai il login su github.com (registrarsi se necessario)
+2. Accedi al file [**README**](https://github.com/sic2/awesome-sicily/blob/master/README.md) di questo progetto
+3. Clicca sull'icona di edit (in alto a destra)
+4. Fai le tue modifiche al file (è un semplice file di testo nel formato [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) )
+5. Descrivi i cambiamenti apportati alla lista nella sezione *Propose file change*
+6. Invia la pull request, i curatori saranno notificati e la accetteranno il prima possibile
+
+## Altro
+
+Il formato che usiamo si ispira alle tantissime pagine [awesome](https://github.com/sindresorhus/awesome) presenti su github
