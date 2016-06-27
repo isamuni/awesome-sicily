@@ -20,15 +20,15 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 - [Città, Ambiente e Legalità](#città-ambiente-e-legalità)
 - [Giornalismo](#giornalismo)
 - [Cultura](#cultura)
- 
+
 ## Tecnologia
  
 ### Sicilia
-* Italian Startup Scene Sicily - [FB Group](https://www.facebook.com/groups/italianstartupsicilia/)
-* StartupItalia! Sicilia - [FB Group](https://www.facebook.com/groups/startupitaliasicilia/)
+* Italian Startup Scene Sicily - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/italianstartupsicilia/)
+* StartupItalia! Sicilia - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/startupitaliasicilia/)
 
 ### Catania
-* Programmatori a Catania - [FB Group](https://www.facebook.com/groups/programmatoriCatania/)
+* Programmatori a Catania - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/programmatoriCatania/)
 * YoutHub - [FB Page](https://www.facebook.com/Youthub-Catania-116505148430596), [Site](http://www.youthub.net/)
 * Hackspace Catania - [Site](http://www.hackspacecatania.it/) - [FB page](https://www.facebook.com/hackspacecatania/)
 * GDG Catania - [Telegram](https://telegram.me/joinchat/BaFZOAjDvuBBFBPAdMogvg), IRC (Network: freenode, Server Addr: chat.freenode.net, Ports: 6665-6667, Channel: #GDGCatania)
@@ -37,23 +37,23 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * EESTEC JLC Catania - [Site](http://www.eestec-catania.eu/), [FB Page](https://www.facebook.com/CataniaEESTEC)
 * Contamination Lab - [Site](http://clab.unict.it/)
 * Sicily on Rails - [Site](http://www.sicilyonrails.org/), [FB Page](https://www.facebook.com/SicilyOnRails/)
-* Creative Labs - [FB Group](https://www.facebook.com/groups/258359144245651/)
-* GlobalGameJam Chapter Catania - [FB Group](https://www.facebook.com/GGJCatania/)
-* OrangeDotNet - [Site](http://www.orangedotnet.org/), [FB Group](https://www.facebook.com/groups/orangedotnet/)
+* Creative Labs - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/258359144245651/)
+* GlobalGameJam Chapter Catania - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/GGJCatania/)
+* OrangeDotNet - [Site](http://www.orangedotnet.org/), [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/orangedotnet/)
 * MSP Catania - [FB Page](https://www.facebook.com/MSPUnict/)
 * Big data for you - [FB Page](https://www.facebook.com/bigdata4you/)
 * CoderDojo Etneo - [FB Page](https://www.facebook.com/CoderDojoEtneo/?fref=ts)
-* OpenDataSicilia - [FB Group](https://www.facebook.com/groups/opendatasicilia/?fref=ts)
+* OpenDataSicilia - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/opendatasicilia/?fref=ts)
 * Linux User Group - [Site](http://catania.linux.it/)
 
 ### Palermo
-* Informatici a Palermo - [FB Group](https://www.facebook.com/groups/110929722279430/)
+* Informatici a Palermo - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/110929722279430/)
 * GDG Palermo - [FB Page](https://www.facebook.com/GDGPalermo/), [Twitter](https://twitter.com/gdg_palermo)
-* CoderDojo Palermo - [FB Group](https://www.facebook.com/groups/386820911485430/)
+* CoderDojo Palermo - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/386820911485430/)
 
 ### Messina
 * GDG Nebrodi - [Site](http://www.gdgnebrodi.info/)
-* Startup Messina - [FB Page](https://www.facebook.com/startupmessina/), [FB Group](https://www.facebook.com/groups/649406375092242/)
+* Startup Messina - [FB Page](https://www.facebook.com/startupmessina/), [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/649406375092242/)
 
 ### Caltanissetta
 * GDG Gela - [Site](http://www.gdggela.org/)
@@ -68,7 +68,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * Vulcanic Incubator - [Site](http://www.vulcanic.it/)
 
 #### Accelleratori
-* TIM #WCAP Catania - [Site](http://www.wcap.tim.it/en/accelerators/catania), [FB Group](https://www.facebook.com/groups/454645481297154/) 
+* TIM #WCAP Catania - [Site](http://www.wcap.tim.it/en/accelerators/catania), [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/454645481297154/) 
 
 #### Hubs
 * Impact Hub Siracusa - [Site](http://siracusa.impacthub.net/), [FB Page](https://www.facebook.com/TheHubSiracusa?fref=ts)
