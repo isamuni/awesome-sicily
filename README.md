@@ -1,4 +1,4 @@
-# awesome-sicily <img src="media/cc-by-4.png" width="18">
+# awesome-sicily [<img src="media/cc-by-4.png" width="60">](http://creativecommons.org/licenses/by/4.0/)
 
 Benvenuto su **awesome-sicily**,
 
