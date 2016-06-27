@@ -45,13 +45,13 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * CoderDojo Etneo - [FB Page](https://www.facebook.com/CoderDojoEtneo/?fref=ts)
 * OpenDataSicilia - [FB Group](https://www.facebook.com/groups/opendatasicilia/?fref=ts)
 * Linux User Group - [Site](http://catania.linux.it/)
-* PHP User Group Catania [FB Group](https://www.facebook.com/groups/PUGCT)
+* PHP User Group Catania - [FB Group](https://www.facebook.com/groups/PUGCT)
 
 ### Palermo
 * Informatici a Palermo - [FB Group](https://www.facebook.com/groups/110929722279430/)
 * GDG Palermo - [FB Page](https://www.facebook.com/GDGPalermo/), [Twitter](https://twitter.com/gdg_palermo)
 * CoderDojo Palermo - [FB Group](https://www.facebook.com/groups/386820911485430/)
-* PHP User Group Palermo [FB Group](https://www.facebook.com/groups/PalermoPUG)
+* PHP User Group Palermo - [FB Group](https://www.facebook.com/groups/PalermoPUG)
 
 ### Messina
 * GDG Nebrodi - [Site](http://www.gdgnebrodi.info/)
