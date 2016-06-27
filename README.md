@@ -51,7 +51,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * Informatici a Palermo - [FB Group](https://www.facebook.com/groups/110929722279430/)
 * GDG Palermo - [FB Page](https://www.facebook.com/GDGPalermo/), [Twitter](https://twitter.com/gdg_palermo)
 * CoderDojo Palermo - [FB Group](https://www.facebook.com/groups/386820911485430/)
-* PHP User Group Palermo [FB Ggoup](https://www.facebook.com/groups/PalermoPUG)
+* PHP User Group Palermo [FB Group](https://www.facebook.com/groups/PalermoPUG)
 
 ### Messina
 * GDG Nebrodi - [Site](http://www.gdgnebrodi.info/)
