@@ -1,8 +1,12 @@
 # awesome-sicily
 
-Benvenuto su **awesome-sicily**,
+Welcome to **awesome-sicily**,
 
-La Sicilia è anche un insieme di realtà giovani, innovative e vibranti, che spesso hanno difficoltà a farsi conoscere, e non hanno il risalto che meritano. Questo progetto vuole creare un indice di queste associazioni, in modo che sia facile scoprirle, e magari prendere parte alle loro inziative.
+| Italian | English | 
+| ------------- |---------------| 
+| La Sicilia è anche un insieme di realtà giovani, innovative e vibranti, che spesso hanno difficoltà a farsi conoscere, e non hanno il risalto che meritano. Questo progetto vuole creare un indice di queste associazioni, in modo che sia facile scoprirle, e magari prendere parte alle loro inziative.| In Sicily there are a lot of young, innovative and thriving communities, which sometimes can be hard to find, despite their relevance. This wants to be an index of these communities, and also a way to get involved with them. | 
+
+
 
 ## Cosa c'è in questa lista
 
