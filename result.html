@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<script   src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <style media="screen">
+
+    .fixed {
+      position: fixed;
+    }
+
+    /* sidebar */
+    .bs-docs-sidebar {
+      padding-left: 20px;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    /* all links */
+    .bs-docs-sidebar .nav>li>a {
+      color: #999;
+      border-left: 2px solid transparent;
+      padding: 4px 20px;
+      font-size: 13px;
+      font-weight: 400;
+    }
+
+    /* nested links */
+    .bs-docs-sidebar .nav .nav>li>a {
+      padding-top: 1px;
+      padding-bottom: 1px;
+      padding-left: 30px;
+      font-size: 12px;
+    }
+
+    /* active & hover links */
+    .bs-docs-sidebar .nav>.active>a,
+    .bs-docs-sidebar .nav>li>a:hover,
+    .bs-docs-sidebar .nav>li>a:focus {
+      color: #563d7c;
+      text-decoration: none;
+      background-color: transparent;
+      border-left-color: #563d7c;
+    }
+    /* all active links */
+    .bs-docs-sidebar .nav>.active>a,
+    .bs-docs-sidebar .nav>.active:hover>a,
+    .bs-docs-sidebar .nav>.active:focus>a {
+      font-weight: 700;
+    }
+    /* nested active links */
+    .bs-docs-sidebar .nav .nav>.active>a,
+    .bs-docs-sidebar .nav .nav>.active:hover>a,
+    .bs-docs-sidebar .nav .nav>.active:focus>a {
+      font-weight: 500;
+    }
+
+    /* hide inactive nested list */
+    .bs-docs-sidebar .nav ul.nav {
+      display: none;
+    }
+    /* show active nested list */
+    .bs-docs-sidebar .nav>.active>ul.nav {
+      display: block;
+    }
+    </style>
+    <script>
+    $(document).ready(function(){
+      $('body').scrollspy({
+        target: '.bs-docs-sidebar',
+        offset: 40
+      });
+    });
+    </script>
+  </head>
+  <body>
+    <div class="row">
+        <!--Nav Bar -->
+        <nav class="col-xs-3 bs-docs-sidebar">
+            <ul id="sidebar" class="nav nav-stacked fixed">
+              
+                <li>
+                    <a href="#Tecnologia">Tecnologia</a>
+                    <ul class="nav nav-stacked">
+                      
+                        <li><a href="#TecnologiaSicilia">Sicilia</a></li>
+                      
+                        <li><a href="#TecnologiaCatania">Catania</a></li>
+                      
+                        <li><a href="#TecnologiaPalermo">Palermo</a></li>
+                      
+                        <li><a href="#TecnologiaMessina">Messina</a></li>
+                      
+                        <li><a href="#TecnologiaCaltanissetta">Caltanissetta</a></li>
+                      
+                        <li><a href="#TecnologiaIncubatori">Incubatori</a></li>
+                      
+                        <li><a href="#TecnologiaAccelleratori">Accelleratori</a></li>
+                      
+                        <li><a href="#TecnologiaHubs">Hubs</a></li>
+                      
+                    </ul>
+                </li>
+              
+                <li>
+                    <a href="#Città, Ambiente e Legalità">Città, Ambiente e Legalità</a>
+                    <ul class="nav nav-stacked">
+                      
+                        <li><a href="#Città, Ambiente e LegalitàSicilia">Sicilia</a></li>
+                      
+                        <li><a href="#Città, Ambiente e LegalitàCatania">Catania</a></li>
+                      
+                        <li><a href="#Città, Ambiente e LegalitàPalermo">Palermo</a></li>
+                      
+                    </ul>
+                </li>
+              
+                <li>
+                    <a href="#Giornalismo">Giornalismo</a>
+                    <ul class="nav nav-stacked">
+                      
+                        <li><a href="#GiornalismoSicilia">Sicilia</a></li>
+                      
+                        <li><a href="#GiornalismoCatania">Catania</a></li>
+                      
+                        <li><a href="#GiornalismoMessina">Messina</a></li>
+                      
+                    </ul>
+                </li>
+              
+                <li>
+                    <a href="#Cultura">Cultura</a>
+                    <ul class="nav nav-stacked">
+                      
+                        <li><a href="#CulturaMessina">Messina</a></li>
+                      
+                    </ul>
+                </li>
+              
+            </ul>
+        </nav>
+
+        <!--Main Content -->
+        <div class="col-xs-9">
+          
+            <section id="Tecnologia" class="group">
+                <h3>Tecnologia</h3>
+                
+                <div id="TecnologiaSicilia" class="subgroup">
+                  <h4>Sicilia</h4>
+                  <ul>
+                  
+                  <li>
+                    Italian Startup Scene Sicily
+                  </li>
+                  
+                  <li>
+                    StartupItalia! Sicilia
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+                <div id="TecnologiaCatania" class="subgroup">
+                  <h4>Catania</h4>
+                  <ul>
+                  
+                  <li>
+                    Programmatori a Catania
+                  </li>
+                  
+                  <li>
+                    YoutHub
+                  </li>
+                  
+                  <li>
+                    Hackspace Catania
+                  </li>
+                  
+                  <li>
+                    GDG Catania
+                  </li>
+                  
+                  <li>
+                    ZenCoders
+                  </li>
+                  
+                  <li>
+                    Catania JS
+                  </li>
+                  
+                  <li>
+                    EESTEC JLC Catania
+                  </li>
+                  
+                  <li>
+                    Contamination Lab
+                  </li>
+                  
+                  <li>
+                    Sicily on Rails
+                  </li>
+                  
+                  <li>
+                    Creative Labs
+                  </li>
+                  
+                  <li>
+                    GlobalGameJam Chapter Catania
+                  </li>
+                  
+                  <li>
+                    OrangeDotNet
+                  </li>
+                  
+                  <li>
+                    MSP Catania
+                  </li>
+                  
+                  <li>
+                    Big data for you
+                  </li>
+                  
+                  <li>
+                    CoderDojo Etneo
+                  </li>
+                  
+                  <li>
+                    OpenDataSicilia
+                  </li>
+                  
+                  <li>
+                    Linux User Group
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+                <div id="TecnologiaPalermo" class="subgroup">
+                  <h4>Palermo</h4>
+                  <ul>
+                  
+                  <li>
+                    Informatici a Palermo
+                  </li>
+                  
+                  <li>
+                    GDG Palermo
+                  </li>
+                  
+                  <li>
+                    CoderDojo Palermo
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+                <div id="TecnologiaMessina" class="subgroup">
+                  <h4>Messina</h4>
+                  <ul>
+                  
+                  <li>
+                    GDG Nebrodi
+                  </li>
+                  
+                  <li>
+                    Startup Messina
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+                <div id="TecnologiaCaltanissetta" class="subgroup">
+                  <h4>Caltanissetta</h4>
+                  <ul>
+                  
+                  <li>
+                    GDG Gela
+                  </li>
+                  
+                  <li>
+                    CoderDojo Gela
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+                <div id="TecnologiaIncubatori" class="subgroup">
+                  <h4>Incubatori</h4>
+                  <ul>
+                  
+                  <li>
+                    Consorzio Arca
+                  </li>
+                  
+                  <li>
+                    ATFactory
+                  </li>
+                  
+                  <li>
+                    Digital Magics
+                  </li>
+                  
+                  <li>
+                    Vulcanic Incubator
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+                <div id="TecnologiaAccelleratori" class="subgroup">
+                  <h4>Accelleratori</h4>
+                  <ul>
+                  
+                  <li>
+                    TIM #WCAP Catania
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+                <div id="TecnologiaHubs" class="subgroup">
+                  <h4>Hubs</h4>
+                  <ul>
+                  
+                  <li>
+                    Impact Hub Siracusa
+                  </li>
+                  
+                  <li>
+                    FabLab Catania
+                  </li>
+                  
+                  <li>
+                    FabLab Palermo
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+            </section>
+          
+            <section id="Città, Ambiente e Legalità" class="group">
+                <h3>Città, Ambiente e Legalità</h3>
+                
+                <div id="Città, Ambiente e LegalitàSicilia" class="subgroup">
+                  <h4>Sicilia</h4>
+                  <ul>
+                  
+                  <li>
+                    AddioPizzo
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+                <div id="Città, Ambiente e LegalitàCatania" class="subgroup">
+                  <h4>Catania</h4>
+                  <ul>
+                  
+                  <li>
+                    Lungomare Liberato
+                  </li>
+                  
+                  <li>
+                    Inciviltà a Catania
+                  </li>
+                  
+                  <li>
+                    I briganti di Librino
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+                <div id="Città, Ambiente e LegalitàPalermo" class="subgroup">
+                  <h4>Palermo</h4>
+                  <ul>
+                  
+                  <li>
+                    Palermobugs.com
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+            </section>
+          
+            <section id="Giornalismo" class="group">
+                <h3>Giornalismo</h3>
+                
+                <div id="GiornalismoSicilia" class="subgroup">
+                  <h4>Sicilia</h4>
+                  <ul>
+                  
+                  <li>
+                    MeridioNews (prima CTZen)
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+                <div id="GiornalismoCatania" class="subgroup">
+                  <h4>Catania</h4>
+                  <ul>
+                  
+                  <li>
+                    Argo Catania
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+                <div id="GiornalismoMessina" class="subgroup">
+                  <h4>Messina</h4>
+                  <ul>
+                  
+                  <li>
+                    StartMeUp (Radio)
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+            </section>
+          
+            <section id="Cultura" class="group">
+                <h3>Cultura</h3>
+                
+                <div id="CulturaMessina" class="subgroup">
+                  <h4>Messina</h4>
+                  <ul>
+                  
+                  <li>
+                    Officine Culturali
+                  </li>
+                  
+                  </ul>
+                </div>
+                
+            </section>
+          
+        </div>
+    </div>
+  </body>
+</html>
