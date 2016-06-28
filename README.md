@@ -23,11 +23,11 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 
 **Legenda**
 
-- FB Group: <img src="media/fb-group.png" width="18">
-- FB Page: <img src="media/fb-page.png" width="18">
-- Telegram: <img src="media/telegram.png" width="18">
-- Twitter: <img src="media/twitter.png" width="18">
-- Website: <img src="media/web.png" width="18">
+* FB Group - <img src="media/fb-group.png" width="18">
+* FB Page - <img src="media/fb-page.png" width="18">
+* Telegram - <img src="media/telegram.png" width="18">
+* Twitter - <img src="media/twitter.png" width="18">
+* Website - <img src="media/web.png" width="18">
 
 
 ## Tecnologia
@@ -54,11 +54,13 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * CoderDojo Etneo - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/CoderDojoEtneo/?fref=ts)
 * OpenDataSicilia - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/opendatasicilia/?fref=ts)
 * Linux User Group - [<img src="media/web.png" width="18">](http://catania.linux.it/)
+* PHP User Group Catania - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/PUGCT)
 
 ### Palermo
 * Informatici a Palermo - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/110929722279430/)
 * GDG Palermo - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/GDGPalermo/) [<img src="media/twitter.png" width="18">](https://twitter.com/gdg_palermo)
 * CoderDojo Palermo - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/386820911485430/)
+* PHP User Group Palermo - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/PalermoPUG)
 
 ### Messina
 * GDG Nebrodi - [<img src="media/web.png" width="18">](http://www.gdgnebrodi.info/)
@@ -128,6 +130,13 @@ Come creare una [pull request](https://help.github.com/articles/using-pull-reque
 4. Fai le tue modifiche al file (è un semplice file di testo nel formato [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) )
 5. Descrivi i cambiamenti apportati alla lista nella sezione *Propose file change*
 6. Invia la pull request, i curatori saranno notificati e la accetteranno il prima possibile
+
+## Contributors
+
+* @sic2
+* @vigliag
+* @stefanotorresi
+* @giupardep
 
 ## Altro
 
