@@ -1,31 +1,36 @@
-# awesome-sicily
+# Awesome Sicily
 
-> For the English version, see [here](/English.md)
+Welcome on **awesome-sicily**,
 
-Benvenuto su **awesome-sicily**,
+In Sicily there are a lot of young, innovative and thriving
+communities, which sometimes can be hard to find, despite their
+relevance. This wants to be an index of these communities, and also a
+way to get involved with them.
 
-La Sicilia è anche un insieme di realtà giovani, innovative e vibranti, che spesso hanno difficoltà a farsi conoscere, e non hanno il risalto che meritano. Questo progetto vuole creare un indice di queste associazioni, in modo che sia facile scoprirle, e magari prendere parte alle loro inziative.
+## What is on this list
 
-## Cosa c'è in questa lista
+We consider a community **awesome** when it is aggregating ideas,
+events and talents. In the English version of the list, communities
+welcoming English speakers might get more relevance.
 
-Una community si classifica come **awesome**, quando questa agisce da **aggregatore di idee, eventi e talenti**, che promuove il senso di **comunità**.
+## Contributing
 
+This page is currently maintained by the [PAC (Programmers in Catania)
+community](https://www.facebook.com/groups/programmatoriCatania/). All
+contributions are welcome. The content here is licensed with [Creative
+Commons](http://creativecommons.org/licenses/by/4.0/).
 
-## Come contribuire
+## Contents
 
-Questa pagina è attualmente curata dalla [community di PAC](https://www.facebook.com/groups/programmatoriCatania/). Tutti sono invitati a contribuire, tramite gli strumenti di Github o contattando i curatori (leggi [Guida su come contribuire](#contributing)). Il contenuto di questa pagina è rilasciato sotto licenza [Creative Commons](http://creativecommons.org/licenses/by/4.0/), ovvero è possibile utilizzarlo, modificarlo e ridistribuirlo liberamente.
-
-## Indice
-
-- [Tecnologia](#tecnologia)
- - [Incubatori e Acceleratori](#incubatori-acceleratori-e-hubs)
-- [Città, Ambiente e Legalità](#città-ambiente-e-legalità)
-- [Giornalismo](#giornalismo)
-- [Cultura](#cultura)
+- [Technology](#technology)
+ - [Incubators and Acceletarors](#incubators-accelerators-and-hubs)
+- [City, Environment, Society](#society)
+- [Journalism](#journalism)
+- [Culture](#culture)
  
-## Tecnologia
+## Technology
  
-### Sicilia
+### Sicily
 * Italian Startup Scene Sicily - [FB Group](https://www.facebook.com/groups/italianstartupsicilia/)
 * StartupItalia! Sicilia - [FB Group](https://www.facebook.com/groups/startupitaliasicilia/)
 
@@ -63,15 +68,15 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * GDG Gela - [Site](http://www.gdggela.org/)
 * CoderDojo Gela - [Site](http://www.coderdojogela.it/), [FB Page](https://www.facebook.com/coderdojogela)
 
-### Incubatori, Acceleratori e Hubs
+### Incubators, Accelerators and Hubs
 
-#### Incubatori
+#### Incubators
 * Consorzio Arca - [Site](http://www.consorzioarca.it/index.php/en/), [FB Page](https://www.facebook.com/ConsorzioArca/)
 * ATFactory - [Site](http://atfactory.it/)
 * Digital Magics - [Site](http://l.digitalmagics.com/palermo/)
 * Vulcanic Incubator - [Site](http://www.vulcanic.it/)
 
-#### Accelleratori
+#### Accellerators
 * TIM #WCAP Catania - [Site](http://www.wcap.tim.it/en/accelerators/catania), [FB Group](https://www.facebook.com/groups/454645481297154/) 
 
 #### Hubs
@@ -79,9 +84,9 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * FabLab Catania - [Site](http://fablabcatania.eu/), [FB Page](https://www.facebook.com/FABLAB.CATANIA.make.your.idea/?fref=ts)
 * FabLab Palermo - [Site](http://fablabpalermo.org/)
 
-## Città, Ambiente e Legalità
+## Society
 
-### Sicilia
+### Sicily
 * AddioPizzo - [Site](www.addiopizzo.org)
 
 ### Catania
@@ -92,9 +97,9 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 ### Palermo
 * Palermobugs.com - [Site](http://www.palermobugs.com/)
 
-## Giornalismo
+## Journalism
 
-### Sicilia
+### Sicily
 * MeridioNews (prima CTZen) - [Site](http://meridionews.it/)
 
 ### Catania
@@ -103,27 +108,11 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 ### Messina
 * StartMeUp (Radio) - [Site](http://www.radiostartmeup.it/), [Twitter](https://twitter.com/radiosmu)
 
-## Cultura
+## Culture
 * Officine Culturali - [Site](http://www.officineculturali.net/)
 
+## Other
 
-## Contributing
-
-I metodi per contribuire sono due:
-
-1.  inviare una mail a uno dei curatori tramite *programmatori.a.catania@gmail.com*, che vi invitiamo a fare anche per qualsiasi domanda o suggerimento.
-
-2. usare gli strumenti della piattaforma Github (pull request o issues):
-
-Come creare una [pull request](https://help.github.com/articles/using-pull-requests/):
-
-1. Fai il login su github.com (registrarsi se necessario)
-2. Accedi al file [**README**](https://github.com/sic2/awesome-sicily/blob/master/README.md) di questo progetto
-3. Clicca sull'icona di edit (in alto a destra)
-4. Fai le tue modifiche al file (è un semplice file di testo nel formato [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) )
-5. Descrivi i cambiamenti apportati alla lista nella sezione *Propose file change*
-6. Invia la pull request, i curatori saranno notificati e la accetteranno il prima possibile
-
-## Altro
-
-Il formato che usiamo si ispira alle tantissime pagine [awesome](https://github.com/sindresorhus/awesome) presenti su github
+This is inspired by the many
+[awesome](https://github.com/sindresorhus/awesome) projects on
+Github
