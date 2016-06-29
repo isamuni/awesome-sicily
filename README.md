@@ -139,6 +139,7 @@ Se decidete di creare una [pull request](https://help.github.com/articles/using-
 * @vigliag
 * @stefanotorresi
 * @giupardep
+* @danse
 
 ## Altro
 
