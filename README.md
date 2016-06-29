@@ -1,4 +1,4 @@
-# awesome-sicily
+# awesome-sicily [<img src="media/cc-by-4.png" width="60">](http://creativecommons.org/licenses/by/4.0/)
 
 > For the English version, see [here](/English.md)
 
@@ -22,89 +22,98 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 - [Città, Ambiente e Legalità](#città-ambiente-e-legalità)
 - [Giornalismo](#giornalismo)
 - [Cultura](#cultura)
- 
+
+**Legenda**
+
+* FB Group - <img src="media/fb-group.png" width="18">
+* FB Page - <img src="media/fb-page.png" width="18">
+* Telegram - <img src="media/telegram.png" width="18">
+* Twitter - <img src="media/twitter.png" width="18">
+* Website - <img src="media/web.png" width="18">
+
+
 ## Tecnologia
  
 ### Sicilia
-* Italian Startup Scene Sicily - [FB Group](https://www.facebook.com/groups/italianstartupsicilia/)
-* StartupItalia! Sicilia - [FB Group](https://www.facebook.com/groups/startupitaliasicilia/)
+* Italian Startup Scene Sicily - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/italianstartupsicilia/)
+* StartupItalia! Sicilia - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/startupitaliasicilia/)
 
 ### Catania
-* Programmatori a Catania - [FB Group](https://www.facebook.com/groups/programmatoriCatania/)
-* YoutHub - [FB Page](https://www.facebook.com/Youthub-Catania-116505148430596), [Site](http://www.youthub.net/)
-* Hackspace Catania - [Site](http://www.hackspacecatania.it/) - [FB page](https://www.facebook.com/hackspacecatania/)
-* GDG Catania - [Telegram](https://telegram.me/joinchat/BaFZOAjDvuBBFBPAdMogvg), IRC (Network: freenode, Server Addr: chat.freenode.net, Ports: 6665-6667, Channel: #GDGCatania)
-* ZenCoders - [Site](http://zencoders.org/)
-* Catania JS - [FB page](https://www.facebook.com/CataniaJS/), [Twitter](https://twitter.com/catania_js)
-* EESTEC JLC Catania - [Site](http://www.eestec-catania.eu/), [FB Page](https://www.facebook.com/CataniaEESTEC)
-* Contamination Lab - [Site](http://clab.unict.it/)
-* Sicily on Rails - [Site](http://www.sicilyonrails.org/), [FB Page](https://www.facebook.com/SicilyOnRails/)
-* Creative Labs - [FB Group](https://www.facebook.com/groups/258359144245651/)
-* GlobalGameJam Chapter Catania - [FB Group](https://www.facebook.com/GGJCatania/)
-* OrangeDotNet - [Site](http://www.orangedotnet.org/), [FB Group](https://www.facebook.com/groups/orangedotnet/)
-* MSP Catania - [FB Page](https://www.facebook.com/MSPUnict/)
-* Big data for you - [FB Page](https://www.facebook.com/bigdata4you/)
-* CoderDojo Etneo - [FB Page](https://www.facebook.com/CoderDojoEtneo/?fref=ts)
-* OpenDataSicilia - [FB Group](https://www.facebook.com/groups/opendatasicilia/?fref=ts)
-* Linux User Group - [Site](http://catania.linux.it/)
-* PHP User Group Catania - [FB Group](https://www.facebook.com/groups/PUGCT)
+* Programmatori a Catania - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/programmatoriCatania/)
+* YoutHub - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/Youthub-Catania-116505148430596) [<img src="media/web.png" width="18">](http://www.youthub.net/)
+* Hackspace Catania - [<img src="media/web.png" width="18">](http://www.hackspacecatania.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/hackspacecatania/)
+* GDG Catania - [<img src="media/telegram.png" width="18">](https://telegram.me/joinchat/BaFZOAjDvuBBFBPAdMogvg) IRC (Network: freenode, Server Addr: chat.freenode.net, Ports: 6665-6667, Channel: #GDGCatania)
+* ZenCoders - [<img src="media/web.png" width="18">](http://zencoders.org/)
+* Catania JS - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/CataniaJS/) [<img src="media/twitter.png" width="18">](https://twitter.com/catania_js)
+* EESTEC JLC Catania - [<img src="media/web.png" width="18">](http://www.eestec-catania.eu/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/CataniaEESTEC)
+* Contamination Lab - [<img src="media/web.png" width="18">](http://clab.unict.it/)
+* Sicily on Rails - [<img src="media/web.png" width="18">](http://www.sicilyonrails.org/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/SicilyOnRails/)
+* Creative Labs - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/258359144245651/)
+* GlobalGameJam Chapter Catania - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/GGJCatania/)
+* OrangeDotNet - [<img src="media/web.png" width="18">](http://www.orangedotnet.org/) [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/orangedotnet/)
+* MSP Catania - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/MSPUnict/)
+* Big data for you - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/bigdata4you/)
+* CoderDojo Etneo - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/CoderDojoEtneo/?fref=ts)
+* OpenDataSicilia - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/opendatasicilia/?fref=ts)
+* Linux User Group - [<img src="media/web.png" width="18">](http://catania.linux.it/)
+* PHP User Group Catania - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/PUGCT)
 
 ### Palermo
-* Informatici a Palermo - [FB Group](https://www.facebook.com/groups/110929722279430/)
-* GDG Palermo - [FB Page](https://www.facebook.com/GDGPalermo/), [Twitter](https://twitter.com/gdg_palermo)
-* CoderDojo Palermo - [FB Group](https://www.facebook.com/groups/386820911485430/)
-* PHP User Group Palermo - [FB Group](https://www.facebook.com/groups/PalermoPUG)
+* Informatici a Palermo - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/110929722279430/)
+* GDG Palermo - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/GDGPalermo/) [<img src="media/twitter.png" width="18">](https://twitter.com/gdg_palermo)
+* CoderDojo Palermo - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/386820911485430/)
+* PHP User Group Palermo - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/PalermoPUG)
 
 ### Messina
-* GDG Nebrodi - [Site](http://www.gdgnebrodi.info/)
-* Startup Messina - [FB Page](https://www.facebook.com/startupmessina/), [FB Group](https://www.facebook.com/groups/649406375092242/)
+* GDG Nebrodi - [<img src="media/web.png" width="18">](http://www.gdgnebrodi.info/)
+* Startup Messina - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/startupmessina/) [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/649406375092242/)
 
 ### Caltanissetta
-* GDG Gela - [Site](http://www.gdggela.org/)
-* CoderDojo Gela - [Site](http://www.coderdojogela.it/), [FB Page](https://www.facebook.com/coderdojogela)
+* GDG Gela - [<img src="media/web.png" width="18">](http://www.gdggela.org/)
+* CoderDojo Gela - [<img src="media/web.png" width="18">](http://www.coderdojogela.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/coderdojogela)
 
 ### Incubatori, Acceleratori e Hubs
 
 #### Incubatori
-* Consorzio Arca - [Site](http://www.consorzioarca.it/index.php/en/), [FB Page](https://www.facebook.com/ConsorzioArca/)
-* ATFactory - [Site](http://atfactory.it/)
-* Digital Magics - [Site](http://l.digitalmagics.com/palermo/)
-* Vulcanic Incubator - [Site](http://www.vulcanic.it/)
+* Consorzio Arca - [<img src="media/web.png" width="18">](http://www.consorzioarca.it/index.php/en/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/ConsorzioArca/)
+* ATFactory - [<img src="media/web.png" width="18">](http://atfactory.it/)
+* Digital Magics - [<img src="media/web.png" width="18">](http://l.digitalmagics.com/palermo/)
+* Vulcanic Incubator - [<img src="media/web.png" width="18">](http://www.vulcanic.it/)
 
 #### Accelleratori
-* TIM #WCAP Catania - [Site](http://www.wcap.tim.it/en/accelerators/catania), [FB Group](https://www.facebook.com/groups/454645481297154/) 
+* TIM #WCAP Catania - [<img src="media/web.png" width="18">](http://www.wcap.tim.it/en/accelerators/catania) [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/454645481297154/) 
 
 #### Hubs
-* Impact Hub Siracusa - [Site](http://siracusa.impacthub.net/), [FB Page](https://www.facebook.com/TheHubSiracusa?fref=ts)
-* FabLab Catania - [Site](http://fablabcatania.eu/), [FB Page](https://www.facebook.com/FABLAB.CATANIA.make.your.idea/?fref=ts)
-* FabLab Palermo - [Site](http://fablabpalermo.org/)
+* Impact Hub Siracusa - [<img src="media/web.png" width="18">](http://siracusa.impacthub.net/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/TheHubSiracusa?fref=ts)
+* FabLab Catania - [<img src="media/web.png" width="18">](http://fablabcatania.eu/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/FABLAB.CATANIA.make.your.idea/?fref=ts)
+* FabLab Palermo - [<img src="media/web.png" width="18">](http://fablabpalermo.org/)
 
 ## Città, Ambiente e Legalità
 
 ### Sicilia
-* AddioPizzo - [Site](www.addiopizzo.org)
+* AddioPizzo - [<img src="media/web.png" width="18">](www.addiopizzo.org)
 
 ### Catania
-* Lungomare Liberato - [FB Page](https://www.facebook.com/lungomareliberatocatania/)
-* Inciviltà a Catania - [Fb Page](https://www.facebook.com/Inciviltà-a-Catania-662923443841832/)
-* I briganti di Librino - [Site](http://www.brigantilibrino.it/), [FB Page](https://www.facebook.com/RugbyIBriganti/)
+* Lungomare Liberato - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/lungomareliberatocatania/)
+* Inciviltà a Catania - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/Inciviltà-a-Catania-662923443841832/)
+* I briganti di Librino - [<img src="media/web.png" width="18">](http://www.brigantilibrino.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/RugbyIBriganti/)
 
 ### Palermo
-* Palermobugs.com - [Site](http://www.palermobugs.com/)
+* Palermobugs.com - [<img src="media/web.png" width="18">](http://www.palermobugs.com/)
 
 ## Giornalismo
 
 ### Sicilia
-* MeridioNews (prima CTZen) - [Site](http://meridionews.it/)
+* MeridioNews (prima CTZen) - [<img src="media/web.png" width="18">](http://meridionews.it/)
 
 ### Catania
-* Argo Catania - [Site](http://www.argocatania.org/), [FB Page](https://www.facebook.com/Argo-Catania-148063732028876/)
+* Argo Catania - [<img src="media/web.png" width="18">](http://www.argocatania.org/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/Argo-Catania-148063732028876/)
 
 ### Messina
-* StartMeUp (Radio) - [Site](http://www.radiostartmeup.it/), [Twitter](https://twitter.com/radiosmu)
+* StartMeUp (Radio) - [<img src="media/web.png" width="18">](http://www.radiostartmeup.it/) [<img src="media/twitter.png" width="18">](https://twitter.com/radiosmu)
 
 ## Cultura
-* Officine Culturali - [Site](http://www.officineculturali.net/)
+* Officine Culturali - [<img src="media/web.png" width="18">](http://www.officineculturali.net/)
 
 
 ## Contributing
@@ -123,6 +132,13 @@ Come creare una [pull request](https://help.github.com/articles/using-pull-reque
 4. Fai le tue modifiche al file (è un semplice file di testo nel formato [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) )
 5. Descrivi i cambiamenti apportati alla lista nella sezione *Propose file change*
 6. Invia la pull request, i curatori saranno notificati e la accetteranno il prima possibile
+
+## Contributors
+
+* @sic2
+* @vigliag
+* @stefanotorresi
+* @giupardep
 
 ## Altro
 
