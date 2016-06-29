@@ -4,16 +4,16 @@
 
 Benvenuto su **awesome-sicily**,
 
-La Sicilia è anche un insieme di realtà giovani, innovative e vibranti, che spesso hanno difficoltà a farsi conoscere, e non hanno il risalto che meritano. Questo progetto vuole creare un indice di queste associazioni, in modo che sia facile scoprirle, e magari prendere parte alle loro inziative.
+La Sicilia è anche un insieme di realtà giovani, innovative e vibranti, che spesso hanno difficoltà a farsi conoscere, e non hanno il risalto che meritano. Questo progetto vuole creare un indice di queste associazioni, in modo che sia più facile scoprirle e prendere parte alle loro inziative.
 
 ## Cosa c'è in questa lista
 
-Una community si classifica come **awesome**, quando questa agisce da **aggregatore di idee, eventi e talenti**, che promuove il senso di **comunità**.
+Una community si classifica come **awesome**, quando questa agisce da **aggregatore di idee, eventi e talenti**, e promuove il senso di **comunità**.
 
 
 ## Come contribuire
 
-Questa pagina è attualmente curata dalla [community di PAC](https://www.facebook.com/groups/programmatoriCatania/). Tutti sono invitati a contribuire, tramite gli strumenti di Github o contattando i curatori (leggi [Guida su come contribuire](#contributing)). Il contenuto di questa pagina è rilasciato sotto licenza [Creative Commons](http://creativecommons.org/licenses/by/4.0/), ovvero è possibile utilizzarlo, modificarlo e ridistribuirlo liberamente.
+Questa pagina è attualmente curata dalla [community di PAC](https://www.facebook.com/groups/programmatoriCatania/). Siete tutti invitati a contribuire e segnalare nuove community da inserire. Potete farlo contattando i curatori, o tramite gli strumenti di Github (leggi [Come contribuire](#contributing) in fondo alla pagina). Il contenuto di questa pagina è rilasciato sotto licenza [Creative Commons](http://creativecommons.org/licenses/by/4.0/), è quindi possibile utilizzarlo, modificarlo e ridistribuirlo liberamente.
 
 ## Indice
 
@@ -118,20 +118,19 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 
 ## Contributing
 
-I metodi per contribuire sono due:
+Con questa pagina ci siamo preposti un obiettivo ambizioso, le community in sicilia sono davvero tante, e non è semplice fare una mappa di tutte, o trovare il miglior modo di dare loro rilevanza e visibilità. Per questo ci serve la vostra collaborazione: conoscete una community non in lista? Fatecelo assolutamente sapere! Idem per qualsiasi suggerimento vi venga in mente :)
 
-1.  inviare una mail a uno dei curatori tramite *programmatori.a.catania@gmail.com*, che vi invitiamo a fare anche per qualsiasi domanda o suggerimento.
+Potete inviarci nuove community o suggerimenti in più modi, scegliete pure quello più comodo:
+* inviando una mail ai curatori tramite *programmatori.a.catania@gmail.com*
+* commentando sotto [questo post su facebook](https://www.facebook.com/groups/programmatoriCatania/permalink/798689656931797/)
+* aprendo una issue su github ([questa pagina](https://github.com/sic2/awesome-sicily/issues) , poi tasto verde di new issue, create un account se non l'avete)
+* modificando questa pagina e aprendo una pull request (potrebbe essere il modo migliore per suggerire grosse modifiche)
 
-2. usare gli strumenti della piattaforma Github (pull request o issues):
-
-Come creare una [pull request](https://help.github.com/articles/using-pull-requests/):
-
-1. Fai il login su github.com (registrarsi se necessario)
-2. Accedi al file [**README**](https://github.com/sic2/awesome-sicily/blob/master/README.md) di questo progetto
-3. Clicca sull'icona di edit (in alto a destra)
-4. Fai le tue modifiche al file (è un semplice file di testo nel formato [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) )
-5. Descrivi i cambiamenti apportati alla lista nella sezione *Propose file change*
-6. Invia la pull request, i curatori saranno notificati e la accetteranno il prima possibile
+Se decidete di creare una [pull request](https://help.github.com/articles/using-pull-requests/), quindi modificare direttamente la pagina:
+1. Fate il login su github (registratevi se serve)
+2. [Apportate le vostre modifiche al file README](https://github.com/sic2/awesome-sicily/edit/master/README.md), che è scritto nel formato [Markdown](https://help.github.com/articles/github-flavored-markdown/).
+3. Descrivi i cambiamenti apportati nell'apposito campo sotto, nella sezione *Propose file change*
+4. Invia la pull request, riceveremo una notifica e la prenderemo in considerazione al più presto.
 
 ## Contributors
 
