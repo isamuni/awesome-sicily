@@ -127,6 +127,7 @@ Potete inviarci nuove community o suggerimenti in più modi, scegliete pure quel
 * modificando questa pagina e aprendo una pull request (potrebbe essere il modo migliore per suggerire grosse modifiche)
 
 Se decidete di creare una [pull request](https://help.github.com/articles/using-pull-requests/), quindi modificare direttamente la pagina:
+
 1. Fate il login su github (registratevi se serve)
 2. [Apportate le vostre modifiche al file README](https://github.com/sic2/awesome-sicily/edit/master/README.md), che è scritto nel formato [Markdown](https://help.github.com/articles/github-flavored-markdown/).
 3. Descrivi i cambiamenti apportati nell'apposito campo sotto, nella sezione *Propose file change*
