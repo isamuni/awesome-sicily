@@ -135,11 +135,11 @@ Se decidete di creare una [pull request](https://help.github.com/articles/using-
 
 ## Contributors
 
-* @sic2
-* @vigliag
-* @stefanotorresi
-* @giupardep
-* @danse
+* [@sic2](https://github.com/sic2)
+* [@vigliag](https://github.com/vigliag)
+* [@stefanotorresi](https://github.com/stefanotorresi)
+* [@giupardep](https://github.com/giupardep)
+* [@danse](https://github.com/danse)
 
 ## Altro
 
