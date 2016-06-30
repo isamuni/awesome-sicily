@@ -13,7 +13,7 @@ Una community si classifica come **awesome**, quando questa agisce da **aggregat
 
 ## Come contribuire
 
-Questa pagina è attualmente curata dalla [community di PAC](https://www.facebook.com/groups/programmatoriCatania/). Siete tutti invitati a contribuire e segnalare nuove community da inserire. Potete farlo contattando i curatori, o tramite gli strumenti di Github (leggi [Come contribuire](#contributing) in fondo alla pagina). Il contenuto di questa pagina è rilasciato sotto licenza [Creative Commons](http://creativecommons.org/licenses/by/4.0/), è quindi possibile utilizzarlo, modificarlo e ridistribuirlo liberamente.
+Questa pagina è attualmente curata dalla [community di PAC](https://www.facebook.com/groups/programmatoriCatania/). Siete tutti invitati a contribuire e segnalare nuove community da inserire. Potete farlo contattando i curatori oppure tramite gli strumenti di Github (leggi [Come contribuire](#contributing) in fondo alla pagina). Il contenuto di questa pagina è rilasciato sotto licenza [Creative Commons](http://creativecommons.org/licenses/by/4.0/), è quindi possibile utilizzarlo, modificarlo e ridistribuirlo liberamente.
 
 ## Indice
 
@@ -118,9 +118,9 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 
 ## Contributing
 
-Con questa pagina ci siamo preposti un obiettivo ambizioso, le community in sicilia sono davvero tante, e non è semplice fare una mappa di tutte, o trovare il miglior modo di dare loro rilevanza e visibilità. Per questo ci serve la vostra collaborazione: conoscete una community non in lista? Fatecelo assolutamente sapere! Idem per qualsiasi suggerimento vi venga in mente :)
+Questa pagina si prepone un obiettivo ambizioso, le community in Sicilia sono davvero tante, e non è semplice fare una mappa di tutte, o trovare il miglior modo di dare loro rilevanza e visibilità. Per questo ci serve la vostra collaborazione. Se conoscete una community non in lista o avete suggerimenti o volete collaborare al progetto fatecelo assolutamente sapere :)
 
-Potete inviarci nuove community o suggerimenti in più modi, scegliete pure quello più comodo:
+Potete inviarci segnalazioni di community da inserire o suggerimenti in più modi:
 * inviando una mail ai curatori tramite *programmatori.a.catania@gmail.com*
 * commentando sotto [questo post su facebook](https://www.facebook.com/groups/programmatoriCatania/permalink/798689656931797/)
 * aprendo una issue su github ([questa pagina](https://github.com/sic2/awesome-sicily/issues) , poi tasto verde di new issue, create un account se non l'avete)
@@ -130,8 +130,8 @@ Se decidete di creare una [pull request](https://help.github.com/articles/using-
 
 1. Fate il login su github (registratevi se serve)
 2. [Apportate le vostre modifiche al file README](https://github.com/sic2/awesome-sicily/edit/master/README.md), che è scritto nel formato [Markdown](https://help.github.com/articles/github-flavored-markdown/).
-3. Descrivi i cambiamenti apportati nell'apposito campo sotto, nella sezione *Propose file change*
-4. Invia la pull request, riceveremo una notifica e la prenderemo in considerazione al più presto.
+3. Descrivete i cambiamenti apportati nell'apposito campo sotto, nella sezione *Propose file change*
+4. Inviate la pull request, riceveremo una notifica e la prenderemo in considerazione al più presto.
 
 ## Contributors
 
