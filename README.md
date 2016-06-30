@@ -54,7 +54,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * MSP Catania - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/MSPUnict/)
 * Big data for you - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/bigdata4you/)
 * CoderDojo Etneo - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/CoderDojoEtneo/?fref=ts)
-* OpenDataSicilia - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/opendatasicilia/?fref=ts)
+* OpenDataSicilia - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/opendatasicilia/?fref=ts) [<img src="media/web.png" width="18">](http://opendatasicilia.it/)
 * Linux User Group - [<img src="media/web.png" width="18">](http://catania.linux.it/)
 * PHP User Group Catania - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/PUGCT)
 
