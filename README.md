@@ -138,7 +138,7 @@ Se decidete di creare una [pull request](https://help.github.com/articles/using-
 * [@sic2](https://github.com/sic2)
 * [@vigliag](https://github.com/vigliag)
 * [@stefanotorresi](https://github.com/stefanotorresi)
-* [@giupardep](https://github.com/giupardep)
+* [@giupardeb](https://github.com/giupardeb)
 * [@danse](https://github.com/danse)
 
 ## Altro
