@@ -30,6 +30,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * Telegram - <img src="media/telegram.png" width="18">
 * Twitter - <img src="media/twitter.png" width="18">
 * Website - <img src="media/web.png" width="18">
+* E-mail - <img src="media/email.png" width="18">
 
 
 ## Tecnologia
@@ -114,7 +115,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 
 ## Cultura
 * Officine Culturali - [<img src="media/web.png" width="18">](http://www.officineculturali.net/)
-
+* Cuore di Maglia - [<img src="media/web.png" width="18">](http://cuoredimagliablog.blogspot.co.uk) (Catania)[<img src="media/email.png" width="18">](mariellafornello@tiscali.it) (Siracusa)[<img src="media/email.png" width="18">](milena_99@hotmail.it) (Palermo)[<img src="media/email.png" width="18">](ariservato@libero.it)
 
 ## Contributing
 
