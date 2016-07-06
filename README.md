@@ -80,6 +80,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * ATFactory - [<img src="media/web.png" width="18">](http://atfactory.it/)
 * Digital Magics - [<img src="media/web.png" width="18">](http://l.digitalmagics.com/palermo/)
 * Vulcanic Incubator - [<img src="media/web.png" width="18">](http://www.vulcanic.it/)
+* Eureka 2.0 - [<img src="media/web.png" width="18">](http://www.fondazionevaldinoto.it/index.php/eureka-2-0/)
 
 #### Accelleratori
 * TIM #WCAP Catania - [<img src="media/web.png" width="18">](http://www.wcap.tim.it/en/accelerators/catania) [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/454645481297154/) 
@@ -116,6 +117,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 ## Cultura
 * Officine Culturali - [<img src="media/web.png" width="18">](http://www.officineculturali.net/)
 * Cuore di Maglia - [<img src="media/web.png" width="18">](http://cuoredimagliablog.blogspot.co.uk) (Catania)[<img src="media/email.png" width="18">](mailto:mariellafornello@tiscali.it) (Siracusa)[<img src="media/email.png" width="18">](mailto:milena_99@hotmail.it) (Palermo)[<img src="media/email.png" width="18">](mailto:ariservato@libero.it)
+* Fondazione Val di Noto - [<img src="media/web.png" width="18">](http://www.fondazionevaldinoto.it/)
 
 ## Contributing
 
