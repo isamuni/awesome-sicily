@@ -94,14 +94,20 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 
 ### Sicilia
 * AddioPizzo - [<img src="media/web.png" width="18">](www.addiopizzo.org)
+* Libera. Associazioni, nomi e numeri contro le mafie - [<img src="media/web.png" width="18">](www.libera.it)
 
 ### Catania
+* AddioPizzo Catania - [<img src="media/web.png" width="18">](http://www.addiopizzocatania.org/)
+* Città Insieme - [<img src="media/web.png" width="18">](http://www.cittainsieme.it/)
 * Lungomare Liberato - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/lungomareliberatocatania/)
 * Inciviltà a Catania - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/Inciviltà-a-Catania-662923443841832/)
 * I briganti di Librino - [<img src="media/web.png" width="18">](http://www.brigantilibrino.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/RugbyIBriganti/)
 
 ### Palermo
 * Palermobugs.com - [<img src="media/web.png" width="18">](http://www.palermobugs.com/)
+
+### Messina
+* AddioPizzo Messina - [<img src="media/web.png" width="18">](https://addiopizzomessina.it/)
 
 ## Giornalismo
 
