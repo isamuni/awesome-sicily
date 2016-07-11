@@ -142,6 +142,8 @@ Se decidete di creare una [pull request](https://help.github.com/articles/using-
 3. Descrivete i cambiamenti apportati nell'apposito campo sotto, nella sezione *Propose file change*
 4. Inviate la pull request, riceveremo una notifica e la prenderemo in considerazione al più presto.
 
+**NB**: Tutti i link (in markdown) devono iniziare con `http` o `https` (e.g. www.example.org non è un URL valido, http://www.example.org o http://example.org lo sono) 
+
 ## Contributors
 
 * [@sic2](https://github.com/sic2)
