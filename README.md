@@ -93,8 +93,8 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 ## Città, Ambiente e Legalità
 
 ### Sicilia
-* AddioPizzo - [<img src="media/web.png" width="18">](www.addiopizzo.org)
-* Libera. Associazioni, nomi e numeri contro le mafie - [<img src="media/web.png" width="18">](www.libera.it)
+* AddioPizzo - [<img src="media/web.png" width="18">](http://www.addiopizzo.org)
+* Libera. Associazioni, nomi e numeri contro le mafie - [<img src="media/web.png" width="18">](http://www.libera.it)
 
 ### Catania
 * AddioPizzo Catania - [<img src="media/web.png" width="18">](http://www.addiopizzocatania.org/)
