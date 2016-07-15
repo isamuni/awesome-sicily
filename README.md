@@ -78,7 +78,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 #### Incubatori
 * Consorzio Arca - [<img src="media/web.png" width="18">](http://www.consorzioarca.it/index.php/en/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/ConsorzioArca/)
 * ATFactory - [<img src="media/web.png" width="18">](http://atfactory.it/)
-* Digital Magics - [<img src="media/web.png" width="18">](http://l.digitalmagics.com/palermo/)
+* Digital Magics - [<img src="media/web.png" width="18">](http://digitalmagics.com/palermo/)
 * Vulcanic Incubator - [<img src="media/web.png" width="18">](http://www.vulcanic.it/)
 * Eureka 2.0 - [<img src="media/web.png" width="18">](http://www.fondazionevaldinoto.it/index.php/eureka-2-0/)
 
