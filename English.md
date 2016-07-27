@@ -26,6 +26,6 @@ We decided to maintain a single version of the list, to make updating easier. Pl
 You can use this index to navigate directly to the relevant sections:
 - [Technology](README.md#tecnologia)
  - [Incubators, Accelerators and Hubs](README.md#incubatori-acceleratori-e-hubs)
-- [City, Environment and Society](README.md##città-ambiente-e-legalità)
+- [City, Environment and Society](README.md#città-ambiente-e-legalità)
 - [Journalism](README.md#giornalismo)
 - [Culture](README.md#cultura)
