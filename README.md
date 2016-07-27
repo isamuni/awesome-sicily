@@ -102,6 +102,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * Lungomare Liberato - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/lungomareliberatocatania/)
 * Inciviltà a Catania - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/Inciviltà-a-Catania-662923443841832/)
 * I briganti di Librino - [<img src="media/web.png" width="18">](http://www.brigantilibrino.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/RugbyIBriganti/)
+* Rete Antirazzista Catania - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/Rete-Antirazzista-Catanese-468545723307207/)
 
 ### Palermo
 * Palermobugs.com - [<img src="media/web.png" width="18">](http://www.palermobugs.com/)
