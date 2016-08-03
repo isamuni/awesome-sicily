@@ -18,7 +18,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 ## Indice
 
 - [Tecnologia](#tecnologia)
- - [Incubatori e Acceleratori](#incubatori-acceleratori-e-hubs)
+- [Incubatori e Acceleratori](#incubatori-acceleratori-e-hubs)
 - [Città, Ambiente e Legalità](#città-ambiente-e-legalità)
 - [Giornalismo](#giornalismo)
 - [Cultura](#cultura)
@@ -31,6 +31,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * Twitter - <img src="media/twitter.png" width="18">
 * Website - <img src="media/web.png" width="18">
 * E-mail - <img src="media/email.png" width="18">
+* Forum/Mailinglist - <img src="media/forum.png" width="18">
 
 
 ## Tecnologia
@@ -55,7 +56,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * MSP Catania - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/MSPUnict/)
 * Big data for you - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/bigdata4you/)
 * CoderDojo Etneo - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/CoderDojoEtneo/?fref=ts) [<img src="media/web.png" width="18">](http://www.coderdojoetneo.it/)
-* OpenDataSicilia - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/opendatasicilia/?fref=ts) [<img src="media/web.png" width="18">](http://opendatasicilia.it/)
+* OpenDataSicilia - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/opendatasicilia/?fref=ts) [<img src="media/web.png" width="18">](http://opendatasicilia.it/)[<img src="media/twitter.png" width="18">](https://twitter.com/opendatasicilia)[<img src="media/forum.png" width="18">](https://groups.google.com/forum/#!forum/opendatasicilia)
 * Linux User Group - [<img src="media/web.png" width="18">](http://catania.linux.it/)
 * PHP User Group Catania - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/PUGCT)
 
