@@ -126,7 +126,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 
 ## Cultura
 * Officine Culturali - [<img src="media/web.png" width="18">](http://www.officineculturali.net/)
-* Cuore di Maglia - [<img src="media/web.png" width="18">](http://cuoredimagliablog.blogspot.co.uk) (Catania)[<img src="media/email.png" width="18">](mailto:mariellafornello@tiscali.it) (Siracusa)[<img src="media/email.png" width="18">](mailto:milena_99@hotmail.it) (Palermo)[<img src="media/email.png" width="18">](mailto:ariservato@libero.it)
+* Cuore di Maglia - [<img src="media/web.png" width="18">](https://cuoredimaglia.wordpress.com/) (Catania)[<img src="media/email.png" width="18">](mailto:mariellafornello@tiscali.it) (Siracusa)[<img src="media/email.png" width="18">](mailto:milena_99@hotmail.it) (Palermo)[<img src="media/email.png" width="18">](mailto:ariservato@libero.it)
 * Fondazione Val di Noto - [<img src="media/web.png" width="18">](http://www.fondazionevaldinoto.it/)
 * Bastione degli Infetti - [<img src="media/web.png" width="18">](http://bastionedeglinfettict.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/bastionedegliinfetti.catania)
 * SiciliaFan - [<img src="media/web.png" width="18">](http://www.siciliafan.it)
