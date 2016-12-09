@@ -18,7 +18,8 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 ## Indice
 
 - [Tecnologia](#tecnologia)
-- [Incubatori e Acceleratori](#incubatori-acceleratori-e-hubs)
+ - [Incubatori e Acceleratori](#incubatori-acceleratori-e-hubs)
+ - [Coworking](#coworking)
 - [Città, Ambiente e Legalità](#città-ambiente-e-legalità)
 - [Giornalismo](#giornalismo)
 - [Cultura](#cultura)
@@ -73,6 +74,16 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 ### Caltanissetta
 * GDG Gela - [<img src="media/web.png" width="18">](http://www.gdggela.org/)
 * CoderDojo Gela - [<img src="media/web.png" width="18">](http://www.coderdojogela.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/coderdojogela)
+
+### Coworking
+
+#### Catania
+
+* Vulcanìc - [<img src="media/web.png" width="18">](http://www.vulcanic.it/)
+
+#### Syracuse
+
+* Impact Hub - [<img src="media/web.png" width="18">](https://siracusa.impacthub.net/)
 
 ### Incubatori, Acceleratori e Hubs
 
