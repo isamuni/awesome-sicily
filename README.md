@@ -98,7 +98,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * Incubatore Sicilia - [<img src="media/web.png" width="18">](http://www.incubatoresicilia.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/IncubatoreSicilia.it/)
 * MakeHUB - [<img src="media/web.png" width="18">](http://www.makehub.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/MakeHubLicata/)
 
-#### Accelleratori
+#### Acceleratori
 * TIM #WCAP Catania - [<img src="media/web.png" width="18">](http://www.wcap.tim.it/en/accelerators/catania) [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/454645481297154/) 
 
 #### Hubs
