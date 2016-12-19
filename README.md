@@ -86,6 +86,9 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 #### Agrigento
 * MakeHUB - [<img src="media/web.png" width="18">](http://www.makehub.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/MakeHubLicata/)
 
+#### Palermo
+* Magneti Cowork - [<img src="media/web.png" width="18">](http://www.magnetico.work/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/magneticowork/)
+
 ### Incubatori, Acceleratori e Hubs
 
 #### Incubatori
