@@ -45,7 +45,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * Programmatori a Catania - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/programmatoriCatania/)
 * YoutHub - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/Youthub-Catania-116505148430596) [<img src="media/web.png" width="18">](http://www.youthub.net/)
 * Hackspace Catania - [<img src="media/web.png" width="18">](http://www.hackspacecatania.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/hackspacecatania/)
-* GDG Catania - [<img src="media/forum.png" width="18">](http://forum.gdgcatania.org/) [<img src="media/telegram.png" width="18">](https://telegram.me/joinchat/BaFZOAjDvuBBFBPAdMogvg) IRC (Network: freenode, Server Addr: chat.freenode.net, Ports: 6665-6667, Channel: #GDGCatania)
+* GDG Catania - [<img src="media/web.png" width="18">](http://gdgcatania.org/) [<img src="media/forum.png" width="18">](http://forum.gdgcatania.org/) [<img src="media/telegram.png" width="18">](https://telegram.me/joinchat/BaFZOAjDvuBBFBPAdMogvg) IRC (Network: freenode, Server Addr: chat.freenode.net, Ports: 6665-6667, Channel: #GDGCatania)
 * ZenCoders - [<img src="media/web.png" width="18">](http://zencoders.org/)
 * Catania JS - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/CataniaJS/) [<img src="media/twitter.png" width="18">](https://twitter.com/catania_js)
 * EESTEC JLC Catania - [<img src="media/web.png" width="18">](http://www.eestec-catania.eu/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/CataniaEESTEC)
