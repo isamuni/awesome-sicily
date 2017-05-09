@@ -60,6 +60,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * OpenDataSicilia - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/opendatasicilia/?fref=ts) [<img src="media/web.png" width="18">](http://opendatasicilia.it/)[<img src="media/twitter.png" width="18">](https://twitter.com/opendatasicilia)[<img src="media/forum.png" width="18">](https://groups.google.com/forum/#!forum/opendatasicilia)
 * Linux User Group - [<img src="media/web.png" width="18">](http://catania.linux.it/)
 * PHP User Group Catania - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/PUGCT)
+* Catania Ruby User Group - [<img src="media/web.png" width="18">](http://cataniarb.org/)
 
 ### Palermo
 * Informatici a Palermo - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/110929722279430/)
