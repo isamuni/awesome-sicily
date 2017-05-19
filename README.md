@@ -72,7 +72,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 ### Messina
 * GDG Nebrodi - [<img src="media/web.png" width="18">](http://www.gdgnebrodi.info/)
 * Startup Messina - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/startupmessina/) [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/649406375092242/)
-* Lo Stretto Digitale = [<img src="media/web.png" width="18">](http://www.lostrettodigitale.org/)
+* Lo Stretto Digitale - [<img src="media/web.png" width="18">](http://www.lostrettodigitale.org/)
 
 ### Caltanissetta
 * GDG Gela - [<img src="media/web.png" width="18">](http://www.gdggela.org/)
