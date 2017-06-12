@@ -85,6 +85,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 
 #### Siracusa
 * Impact Hub Siracusa - [<img src="media/web.png" width="18">](http://siracusa.impacthub.net/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/TheHubSiracusa?fref=ts)
+* Siracusa Web Developers User Group - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/1314281035347252/)
 
 #### Agrigento
 * MakeHUB - [<img src="media/web.png" width="18">](http://www.makehub.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/MakeHubLicata/)
