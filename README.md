@@ -63,6 +63,9 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * PHP User Group Catania - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/PUGCT)
 * Catania Ruby User Group - [<img src="media/web.png" width="18">](http://cataniarb.org/)
 
+### Siracusa
+* Siracusa Web Developers User Group - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/1314281035347252/)
+
 ### Palermo
 * Informatici a Palermo - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/110929722279430/)
 * GDG Palermo - [<img src="media/fb-page.png" width="18">](https://www.facebook.com/GDGPalermo/) [<img src="media/twitter.png" width="18">](https://twitter.com/gdg_palermo)
@@ -85,7 +88,6 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 
 #### Siracusa
 * Impact Hub Siracusa - [<img src="media/web.png" width="18">](http://siracusa.impacthub.net/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/TheHubSiracusa?fref=ts)
-* Siracusa Web Developers User Group - [<img src="media/fb-group.png" width="18">](https://www.facebook.com/groups/1314281035347252/)
 
 #### Agrigento
 * MakeHUB - [<img src="media/web.png" width="18">](http://www.makehub.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/MakeHubLicata/)
