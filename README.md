@@ -178,6 +178,7 @@ Se decidete di creare una [pull request](https://help.github.com/articles/using-
 * [@giupardeb](https://github.com/giupardeb)
 * [@danse](https://github.com/danse)
 * [@aborruso](https://github.com/aborruso)
+* [@fabrizioanastasi](https://github.com/fabrizioanastasi)
 
 ## Altro
 
