@@ -114,6 +114,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * Impact Hub Siracusa - [<img src="media/web.png" width="18">](http://siracusa.impacthub.net/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/TheHubSiracusa?fref=ts)
 * FabLab Catania - [<img src="media/web.png" width="18">](http://fablabcatania.eu/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/FABLAB.CATANIA.make.your.idea/?fref=ts)
 * FabLab Palermo - [<img src="media/web.png" width="18">](http://fablabpalermo.org/)
+* Free Mind Foundry - [<img src="media/web.png" width="18">](https://www.freemindfoundry.com/)
 
 ## Città, Ambiente e Legalità
 
