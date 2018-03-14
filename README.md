@@ -153,6 +153,9 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * Fondazione Val di Noto - [<img src="media/web.png" width="18">](http://www.fondazionevaldinoto.it/)
 * Bastione degli Infetti - [<img src="media/web.png" width="18">](http://bastionedeglinfettict.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/bastionedegliinfetti.catania)
 * SiciliaFan - [<img src="media/web.png" width="18">](http://www.siciliafan.it)
+* Gammazita - [<img src="media/web.png" width="18">](https://www.gammazita.it/)[<img src="media/fb-page.png" width="18">](https://www.facebook.com/AssociazioneGammazita/)
+
+
 
 ## Contributing
 
