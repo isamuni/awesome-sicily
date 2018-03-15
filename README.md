@@ -85,6 +85,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 
 #### Catania
 * Vulcanic Incubator - [<img src="media/web.png" width="18">](http://www.vulcanic.it/)
+* EtnaHub - [<img src="media/web.png" width="18">](http://www.etnahub.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/EtnaHub/)
 
 #### Siracusa
 * Impact Hub Siracusa - [<img src="media/web.png" width="18">](http://siracusa.impacthub.net/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/TheHubSiracusa?fref=ts)
