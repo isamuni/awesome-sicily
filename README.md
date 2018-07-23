@@ -96,6 +96,9 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 #### Palermo
 * Magneti Cowork - [<img src="media/web.png" width="18">](http://www.magnetico.work/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/magneticowork/)
 
+#### Trapani
+* Coworking Partanna - [<img src="media/web.png" width="18">](http://www.coworkingpartanna.it/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/coworkingpartanna/)
+
 ### Incubatori, Acceleratori e Hubs
 
 #### Incubatori
