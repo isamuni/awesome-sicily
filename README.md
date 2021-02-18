@@ -119,6 +119,7 @@ Questa pagina è attualmente curata dalla [community di PAC](https://www.faceboo
 * FabLab Catania - [<img src="media/web.png" width="18">](http://fablabcatania.eu/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/FABLAB.CATANIA.make.your.idea/?fref=ts)
 * FabLab Palermo - [<img src="media/web.png" width="18">](http://fablabpalermo.org/)
 * Free Mind Foundry - [<img src="media/web.png" width="18">](https://www.freemindfoundry.com/)
+* FabLab Western Sicily - [<img src="media/web.png" width="18">](https://www.fablabws.org/) [<img src="media/fb-page.png" width="18">](https://www.facebook.com/FabLabWS/)
 
 ## Città, Ambiente e Legalità
 
